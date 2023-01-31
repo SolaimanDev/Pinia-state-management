@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Buy Some Water",
+      "isFav": false
+    },
+    {
+      "id": 2,
+      "title": "Buy Some Milk",
+      "isFav": true
+    },
+    {
+      "id": 4,
+      "title": "Buy Some Soft drinks",
+      "isFav": true
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    }
+  ]
+}
